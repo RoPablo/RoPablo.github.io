@@ -15,4 +15,4 @@ Here is one of the exercises we did during the program. On this activity it is p
 On this exercise, we could make it more challenging by adding more buttons that show other features, such as: roads, another bus route.
 
 ## License information
-<a href = "LICENCE">MIT<a>
+<a href = "LICENSE">MIT<a>

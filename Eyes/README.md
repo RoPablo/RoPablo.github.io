@@ -15,4 +15,4 @@ To run this repo on your computer please follow these instructions:
 This activity can continue by adding other parts of the face. Also, eyes could change of color by clicking on them.
 
 ## License information
-<a href = "LICENCE">MIT<a>
+<a href = "LICENSE">MIT<a>

@@ -1,6 +1,7 @@
 # PacMen
 
-This is 
+Everybody knows Pacman. It is a fun game. In this activity, the main object is to create many pacmen and make them bounce around.
+
 <img src= "pacmen.png" width= '400'/>
 
 
@@ -16,4 +17,4 @@ To run this repo on your computer please follow these instructions:
 This activity can continue by adding new images or movement. 
 
 ## License information
-<a href = "LICENCE">MIT<a>
+<a href = "LICENSE">MIT<a>
